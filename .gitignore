@@ -1,0 +1,8 @@
+/vendor/           # Ignore Composer dependencies (if using Composer)
+/node_modules/     # Ignore Node.js dependencies
+/logs/             # Ignore log files
+/cache/            # Ignore cache files
+/dist/          # Ignore compiled distribution files
+/build/         # Ignore build output
+.DS_Store       # macOS-specific
+Thumbs.db       # Windows-specific
