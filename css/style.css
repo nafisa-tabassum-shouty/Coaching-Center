@@ -1,0 +1,36 @@
+body{
+	background-color:black;
+}
+h1{
+	color:white;
+	font-family: 'Playfair Display', serif;
+}
+button {
+    background-color: #CF2025;
+    color: white;
+    cursor: pointer;
+	padding:5px;
+	width:100%;
+}
+.logo{
+	padding-right:210px;
+	
+}
+.without_logo{
+	padding: 50px 20px;
+		
+}
+
+.btn{
+	
+	height:80px;
+	width:10%;
+	
+}
+.logo{
+	float:left;
+}
+.image_part{
+	padding-top:200px;
+	padding-left:280px;
+}
